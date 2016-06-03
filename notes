@@ -1,0 +1,18 @@
+Criar um projeto 
+
+- Clique na aba Project
+- Start a New Projet (sinal de adição)
+-- Templates
+--- HTML5 + Cordova (não usar App Designer)
+--- Clique no botão Continue
+
+- Defina o diretório e o nome do projeto
+
+
+Convenções
+- nomes de diretórios comuns começam com underline
+- nomes de módulos, classes, funções e arquivos comuns usam camelCase
+- classes são definidas em arquivos que têm o seus mesmos nomes 
+- os nomes das classes e de seus arquivos usam CamelCase
+- diretórios comuns são para arquivos individualizados
+- dois ou mais arquivos comuns devem usar subdiretório específico para a funcionalidade
